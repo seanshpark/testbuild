@@ -1,0 +1,4 @@
+
+all:
+	echo "Hello World!!"
+
